@@ -1,3 +1,3 @@
 # NewCode
-This is my Repository
+This is my Repository.
 Author-Nitin Bhagat
